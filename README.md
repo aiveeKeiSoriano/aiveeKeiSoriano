@@ -27,8 +27,8 @@ You can create your own new account or login using *aiveekei* as username and *t
 
 ![](./images/answers_dashboard.png)
 
-It is an app created to help teachers get instant response from students in a live online class
-Teacher can create a session, add students and can share a unique link with students
+It is an app created to help teachers get instant response from students in a live online class.
+Teacher can create a session, add students and can share a unique link with students.
 When a student opens the portal and answers something, it appears on the teacher's dashboard real time.
 
 It was made with ReactJS with Material UI library, and Redux for the state management. Firebase is used both for storing the sessions and the authentication. It accepts login with Google.
@@ -47,7 +47,7 @@ Here is a [link](https://optimistic-agnesi-f901f6.netlify.app/) to the teacher's
 
 ![](./images/movies_list.png)
 
-This is a website to browse and search popular movies and view posters and trailer videos
+This is a website to browse and search popular movies and view posters and trailer videos.
 Implemented search using a 3rd Party REST API and used routing and pagination to load 20 movies at a time.
 
 You can look at the website [here](blissful-mcclintock-111199.netlify.app).
@@ -59,14 +59,15 @@ You can look at the website [here](blissful-mcclintock-111199.netlify.app).
 
 ![](./images/memory_clicked.png)
 
-Created a fun time-based memory game using ReactJS
-Using multiple timers on the same page was a challenge 
+Created a fun time-based memory game using ReactJS.
+Using multiple timers on the same page was a challenge.
 Here is the [link](https://kind-ramanujan-6e88de.netlify.app/) to play the game, enjoy!
 
 **On Going Memory Game**
 ![](./images/memory_finish.png)
 
 **Hardcore Mode**
+
 Unlike the classic mode where you have unlimited tries, in hardcore mode, the player needs to match everything within 20 seconds.
 
 ![](./images/memory_hardcore.png)
