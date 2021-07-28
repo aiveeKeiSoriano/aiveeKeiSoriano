@@ -1,4 +1,10 @@
-### Hi there 👋
+***'The digital world inside our computers works in exact and with calculated ways'***, and that's the mindset I like to have whenever I do my work.
+
+Hi there! I am a full-stack web developer who takes comfort from the repetitive part of programming and finds excitement from the endless learning in this field. I enjoy building projects, solving problems, and getting things done. I am skilled in MongoDB, ExpressJS, ReactJS, NodeJS and Firebase. I mostly work with the MERN stack but I'm very eager to learn more technologies.
+
+Here are some of the projects I have build! 🚀🚀
+
+### ShoutOut: Social Media Website 
 
 <!--
 **aiveeKeiSoriano/aiveeKeiSoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
