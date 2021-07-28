@@ -10,7 +10,16 @@ Here are some of the major projects I have build! 🚀🚀
 
 It is a social media website design for people to share their thoughts and follow other people's thoughts. I built it from scratch including authentication, and used JWT for authorization. You can follow other users and it generates a Feed which contains your posts and posts of all the users you are following. You can like a post, view other users’ profile and unfollow them if you want.
 
-The front-end is made using ReactJS, Redux, and Chakra UI. The back-end API is made using NodeJS and ExpressJS and is currently deployed in Heroku. All the data are stored in MongoDB Atlas database.
+Front-end:
+- ReactJS
+- Redux
+- Chakra UI
+
+Back-end API:
+- NodeJS 
+- ExpressJS 
+- Heroku
+- MongoDB Atlas database
 
 You can visit the website hosted in Netlify using this [link](https://inspiring-noether-356180.netlify.app/feed)
 You can create your own new account or login using *aiveekei* as username and *testpass* as password
@@ -31,7 +40,15 @@ It is an app created to help teachers get instant response from students in a li
 Teacher can create a session, add students and can share a unique link with students.
 When a student opens the portal and answers something, it appears on the teacher's dashboard real time.
 
-It was made with ReactJS with Material UI library, and Redux for the state management. Firebase is used both for storing the sessions and the authentication. It accepts login with Google.
+Front-end:
+- ReactJS
+- Redux
+- Material UI
+
+Back-end database and authentication:
+- Firebase firestore
+- Firebase login with Google authentication
+
 
 Here is a [link](https://optimistic-agnesi-f901f6.netlify.app/) to the teacher's dashboard for you to try it.
 
@@ -50,6 +67,12 @@ Here is a [link](https://optimistic-agnesi-f901f6.netlify.app/) to the teacher's
 This is a website to browse and search popular movies and view posters and trailer videos.
 Implemented search using a 3rd Party REST API and used routing and pagination to load 20 movies at a time.
 
+Front-end:
+- ReactJS
+
+API:
+- [TMDB](https://developers.themoviedb.org/3/getting-started/introduction)
+
 You can look at the website [here](blissful-mcclintock-111199.netlify.app).
 
 **Movies Website Detailed Page**
@@ -61,6 +84,7 @@ You can look at the website [here](blissful-mcclintock-111199.netlify.app).
 
 Created a fun time-based memory game using ReactJS.
 Using multiple timers on the same page was a challenge.
+
 Here is the [link](https://kind-ramanujan-6e88de.netlify.app/) to play the game, enjoy!
 
 **On Going Memory Game**
@@ -76,7 +100,15 @@ Unlike the classic mode where you have unlimited tries, in hardcore mode, the pl
 
 ![](./images/spotify_home.png)
 
-It is an app that lets a user login using their existing spotify account. It uses the Spotify for Developers Web API for authorization. The UI is made with ReactJS with styled-components.
+It is an app that lets a user login using their existing spotify account. And view their profile, top artists and top tracks.
+
+Front-end:
+- ReactJS
+- styled-components
+
+API:
+- Spotify for developers [Web API](https://developer.spotify.com/documentation/web-api/)
+
 
 You can look at your profile [here](https://quizzical-poitras-057011.netlify.app/)
 
