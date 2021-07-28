@@ -48,7 +48,7 @@ Here is a [link](https://optimistic-agnesi-f901f6.netlify.app/) to the teacher's
 ![](./images/movies_list.png)
 
 This is a website to browse and search popular movies and view posters and trailer videos
-Implemented search using a 3rd Party REST API and used routing and pagination to load 10 movies at a time.
+Implemented search using a 3rd Party REST API and used routing and pagination to load 20 movies at a time.
 
 You can look at the website [here](blissful-mcclintock-111199.netlify.app).
 
