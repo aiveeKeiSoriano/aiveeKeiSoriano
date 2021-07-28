@@ -4,7 +4,7 @@ Hi there! I'm Aivee Kei Soriano, a full-stack web developer who takes comfort fr
 
 Here are some of the major projects I have build! 🚀🚀
 
-### ShoutOut: Social Media Website 
+## ShoutOut: Social Media Website 
 
 ![](./images/shoutout_feed.png)
 
@@ -23,7 +23,7 @@ You can create your own new account or login using *aiveekei* as username and *t
 **ShoutOut Profile Page**
 ![](./images/shoutout_profile.png)
 
-### Everyone Answers (Firebase)
+## Everyone Answers (Firebase)
 
 ![](./images/answers_dashboard.png)
 
@@ -43,7 +43,7 @@ Here is a [link](https://optimistic-agnesi-f901f6.netlify.app/) to the teacher's
 **Everyone Answers Student Page**
 ![](./images/answers_student.png)
 
-### Movies Website
+## Movies Website
 
 ![](./images/movies_list.png)
 
@@ -55,7 +55,7 @@ You can look at the website [here](blissful-mcclintock-111199.netlify.app).
 **Movies Website Detailed Page**
 ![](./images/movies_movie.png)
 
-### Memory Game
+## Memory Game
 
 ![](./images/memory_clicked.png)
 
@@ -71,7 +71,7 @@ Unlike the classic mode where you have unlimited tries, in hardcore mode, the pl
 
 ![](./images/memory_hardcore.png)
 
-### Spotify Profile
+## Spotify Profile
 
 ![](./images/spotify_home.png)
 
