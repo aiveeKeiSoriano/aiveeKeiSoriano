@@ -8,6 +8,8 @@ Here are some of the major projects I have build! 🚀🚀
 
 ![](./images/shoutout_feed.png)
 
+[GitHub Repo](https://github.com/aiveeKeiSoriano/social-media)
+
 It is a social media website design for people to share their thoughts and follow other people's thoughts. I built it from scratch including authentication, and used JWT for authorization. You can follow other users and it generates a Feed which contains your posts and posts of all the users you are following. You can like a post, view other users’ profile and unfollow them if you want.
 
 Front-end:
@@ -24,8 +26,6 @@ Back-end API:
 You can visit the website hosted in Netlify using this [link](https://inspiring-noether-356180.netlify.app/feed)
 You can create your own new account or login using *aiveekei* as username and *testpass* as password
 
-[GitHub Repo](https://github.com/aiveeKeiSoriano/social-media)
-
 **ShoutOut Login Page**
 ![](./images/shoutout_login.png)
 
@@ -35,6 +35,8 @@ You can create your own new account or login using *aiveekei* as username and *t
 ## Everyone Answers (Firebase)
 
 ![](./images/answers_dashboard.png)
+
+[GitHub Repo](https://github.com/aiveeKeiSoriano/everyone-answers)
 
 It is an app created to help teachers get instant response from students in a live online class.
 Teacher can create a session, add students and can share a unique link with students.
@@ -49,10 +51,7 @@ Back-end database and authentication:
 - Firebase firestore
 - Firebase login with Google authentication
 
-
 Here is a [link](https://optimistic-agnesi-f901f6.netlify.app/) to the teacher's dashboard for you to try it.
-
-[GitHub Repo](https://github.com/aiveeKeiSoriano/everyone-answers)
 
 **Everyone Answers Login Page**
 ![](./images/answers_login.png)
