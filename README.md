@@ -4,7 +4,8 @@ Hi there! I'm Aivee Kei Soriano, a full-stack web developer who takes comfort fr
 
 Here are some of the major projects I have build! 🚀🚀
 
-## ShoutOut: Social Media Website 
+## ShoutOut: Social Media Website | [GitHub Repo](https://github.com/aiveeKeiSoriano/social-media)
+### [Website link](https://inspiring-noether-356180.netlify.app/feed)
 
 ![](./images/shoutout_feed.png)
 
@@ -24,15 +25,14 @@ Back-end API:
 You can visit the website hosted in Netlify using this [link](https://inspiring-noether-356180.netlify.app/feed)
 You can create your own new account or login using *aiveekei* as username and *testpass* as password
 
-[GitHub Repo](https://github.com/aiveeKeiSoriano/social-media)
-
 **ShoutOut Login Page**
 ![](./images/shoutout_login.png)
 
 **ShoutOut Profile Page**
 ![](./images/shoutout_profile.png)
 
-## Everyone Answers (Firebase)
+## Everyone Answers (Firebase) || [GitHub Repo](https://github.com/aiveeKeiSoriano/everyone-answers/tree/features)
+### [Website link](https://hopeful-goldberg-d6cc5b.netlify.app/)
 
 ![](./images/answers_dashboard.png)
 
@@ -50,9 +50,7 @@ Back-end database and authentication:
 - Firebase login with Google authentication
 
 
-Here is a [link](https://optimistic-agnesi-f901f6.netlify.app/) to the teacher's dashboard for you to try it.
-
-[GitHub Repo](https://github.com/aiveeKeiSoriano/everyone-answers)
+Here is a [link](https://hopeful-goldberg-d6cc5b.netlify.app/) to the teacher's dashboard for you to try it.
 
 **Everyone Answers Login Page**
 ![](./images/answers_login.png)
@@ -61,6 +59,7 @@ Here is a [link](https://optimistic-agnesi-f901f6.netlify.app/) to the teacher's
 ![](./images/answers_student.png)
 
 ## Movies Website
+### [Website link](https://blissful-mcclintock-111199.netlify.app).
 
 ![](./images/movies_list.png)
 
@@ -73,12 +72,13 @@ Front-end:
 API:
 - [TMDB](https://developers.themoviedb.org/3/getting-started/introduction)
 
-You can look at the website [here](blissful-mcclintock-111199.netlify.app).
+You can look at the website [here](https://blissful-mcclintock-111199.netlify.app).
 
 **Movies Website Detailed Page**
 ![](./images/movies_movie.png)
 
 ## Memory Game
+### [Website link](https://kind-ramanujan-6e88de.netlify.app/)
 
 ![](./images/memory_clicked.png)
 
@@ -97,6 +97,7 @@ Unlike the classic mode where you have unlimited tries, in hardcore mode, the pl
 ![](./images/memory_hardcore.png)
 
 ## Spotify Profile
+### [Website Link](https://quizzical-poitras-057011.netlify.app/)
 
 ![](./images/spotify_home.png)
 
