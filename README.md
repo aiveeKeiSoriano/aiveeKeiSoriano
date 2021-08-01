@@ -4,12 +4,9 @@ Hi there! I'm Aivee Kei Soriano, a full-stack web developer who takes comfort fr
 
 Here are some of the major projects I have build! 🚀🚀
 
-## ShoutOut: Social Media Website | [GitHub Repo](https://github.com/aiveeKeiSoriano/social-media)
-### [Website link](https://inspiring-noether-356180.netlify.app/feed)
+## ShoutOut: Social Media Website | [Website link](https://inspiring-noether-356180.netlify.app/feed) | [GitHub Repo](https://github.com/aiveeKeiSoriano/social-media)
 
 ![](./images/shoutout_feed.png)
-
-[GitHub Repo](https://github.com/aiveeKeiSoriano/social-media)
 
 It is a social media website design for people to share their thoughts and follow other people's thoughts. I built it from scratch including authentication, and used JWT for authorization. You can follow other users and it generates a Feed which contains your posts and posts of all the users you are following. You can like a post, view other users’ profile and unfollow them if you want.
 
@@ -33,8 +30,7 @@ You can create your own new account or login using *aiveekei* as username and *t
 **ShoutOut Profile Page**
 ![](./images/shoutout_profile.png)
 
-## Everyone Answers (Firebase) || [GitHub Repo](https://github.com/aiveeKeiSoriano/everyone-answers/tree/features)
-### [Website link](https://hopeful-goldberg-d6cc5b.netlify.app/)
+## Everyone Answers (Firebase) | [Website link](https://hopeful-goldberg-d6cc5b.netlify.app/) | [GitHub Repo](https://github.com/aiveeKeiSoriano/everyone-answers/tree/features)
 
 ![](./images/answers_dashboard.png)
 
@@ -62,8 +58,7 @@ Here is a [link](https://hopeful-goldberg-d6cc5b.netlify.app/) to the teacher's 
 **Everyone Answers Student Page**
 ![](./images/answers_student.png)
 
-## Movies Website
-### [Website link](https://blissful-mcclintock-111199.netlify.app).
+## Movies Website | [Website link](https://blissful-mcclintock-111199.netlify.app)
 
 ![](./images/movies_list.png)
 
@@ -81,8 +76,7 @@ You can look at the website [here](https://blissful-mcclintock-111199.netlify.ap
 **Movies Website Detailed Page**
 ![](./images/movies_movie.png)
 
-## Memory Game
-### [Website link](https://kind-ramanujan-6e88de.netlify.app/)
+## Memory Game | [Website link](https://kind-ramanujan-6e88de.netlify.app/)
 
 ![](./images/memory_clicked.png)
 
@@ -100,8 +94,7 @@ Unlike the classic mode where you have unlimited tries, in hardcore mode, the pl
 
 ![](./images/memory_hardcore.png)
 
-## Spotify Profile
-### [Website Link](https://quizzical-poitras-057011.netlify.app/)
+## Spotify Profile | [Website Link](https://quizzical-poitras-057011.netlify.app/)
 
 ![](./images/spotify_home.png)
 
