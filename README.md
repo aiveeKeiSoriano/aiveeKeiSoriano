@@ -33,7 +33,7 @@ Here are what my Upwork clients said about me and my work. 🤗🤗
 
 The back-end server was made using nodeJS and expressJS and serves Pug views as the front-end. The dashboard includes user authentication and 2 level of authorization: admin and viewer. Websocket was used to track users who connects to the website. The data was stored in MongoDB Atlas and displayed in a table at the admin dashboard.
 
-Technologies used: NodeJS, ExpressJS, MongoDB, Pug, Bootstrap, Fast-CSV, Socket.io
+**Technologies used: NodeJS, ExpressJS, MongoDB, Pug, Bootstrap, Fast-CSV, Socket.io**
 
 ![](./images/extraconnect_sessions.png)
 ![](./images/extraconnect_settings.png)
@@ -44,7 +44,7 @@ Technologies used: NodeJS, ExpressJS, MongoDB, Pug, Bootstrap, Fast-CSV, Socket.
 
 In this website, a user can search for songs using title, artists, or albums and the song information will be fetched from Spotify API. Using the list of songs the user chose, the user can drag and drop songs into their preferred position. A user can also add corresponding scores to the songs and on trigger, the website will start a scripted drag-and-drop which will sort the songs in an animated manner.
 
-Technologies used: ReactJS, Material-UI, Styled-components, Redux, Axios, React-beautiful-dnd
+**Technologies used: ReactJS, Material-UI, Styled-components, Redux, Axios, React-beautiful-dnd**
 
 <hr></hr>
 And here are some of the major personal projects I have build! 🚀🚀
