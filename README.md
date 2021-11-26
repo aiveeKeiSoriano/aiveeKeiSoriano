@@ -2,7 +2,7 @@
 
 Hi there! I'm Aivee Kei Soriano, a full-stack web developer who takes comfort from the repetitive part of programming and finds excitement from the endless learning in this field. I enjoy building projects, solving problems, and getting things done. I am skilled in MongoDB, ExpressJS, ReactJS, NodeJS and Firebase. I mostly work with the MERN stack but I'm very eager to learn more technologies.
 
-<img align="left" width="30px" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<!-- <img align="left" width="30px" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" width="30px" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
 <img align="left" width="30px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" width="30px" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
@@ -22,7 +22,7 @@ Hi there! I'm Aivee Kei Soriano, a full-stack web developer who takes comfort fr
 <img align="left" width="30px" alt="firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
 
 <br/><br/>
-<hr></hr>
+<hr></hr> -->
 
 Here are what my Upwork clients said about me and my work. 🤗🤗
 
