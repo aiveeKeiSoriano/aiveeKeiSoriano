@@ -2,7 +2,50 @@
 
 Hi there! I'm Aivee Kei Soriano, a full-stack web developer who takes comfort from the repetitive part of programming and finds excitement from the endless learning in this field. I enjoy building projects, solving problems, and getting things done. I am skilled in MongoDB, ExpressJS, ReactJS, NodeJS and Firebase. I mostly work with the MERN stack but I'm very eager to learn more technologies.
 
-Here are some of the major projects I have build! 🚀🚀
+<img align="left" width="30px" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" width="30px" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+<img align="left" width="30px" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" width="30px" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" width="30px" alt="scss" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
+<img align="left" width="30px" alt="pug" src="https://raw.githubusercontent.com/github/explore/5251491d97b6e3e2f3aae129b6977d2643c5e355/topics/pug/pug.png"/>
+<img align="left" width="30px" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"/>
+<img align="left" width="30px" alt="react-native" src="https://www.paceit.co.uk/wp-content/uploads/2021/07/react-native-development-company.png"/>
+<img align="left" width="30px" alt="ionic" src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png"/>
+<img align="left" width="30px" alt="redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>
+<img align="left" width="30px" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
+<img align="left" width="30px" alt="material-ui" src="https://v4.material-ui.com/static/logo.png"/>
+<img align="left" width="30px" alt="chakra-ui" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4"/>
+<img align="left" width="30px" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img align="left" width="30px" alt="express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
+<img align="left" width="30px" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
+<img align="left" width="30px" alt="postgres" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
+<img align="left" width="30px" alt="firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
+
+<br/><br/>
+
+Here are what my Upwork clients said about me and my work. 🤗🤗
+
+## NodeJS Admin Dashboard
+
+![](./images/extraconnect_feedback_1.png)
+![](./images/extraconnect_feedback_2.png)
+
+The back-end server was made using nodeJS and expressJS and serves Pug views as the front-end. The dashboard includes user authentication and 2 level of authorization: admin and viewer. Websocket was used to track users who connects to the website. The data was stored in MongoDB Atlas and displayed in a table at the admin dashboard.
+
+Technologies used: NodeJS, ExpressJS, MongoDB, Pug, Bootstrap, Fast-CSV, Socket.io
+
+![](./images/extraconnect_sessions.png)
+![](./images/extraconnect_settings.png)
+
+## ReactJS Drag and Drop, Automated Song Chart Simulator
+
+![](./images/songtier_feedback.png)
+
+In this website, a user can search for songs using title, artists, or albums and the song information will be fetched from Spotify API. Using the list of songs the user chose, the user can drag and drop songs into their preferred position. A user can also add corresponding scores to the songs and on trigger, the website will start a scripted drag-and-drop which will sort the songs in an animated manner.
+
+Technologies used: ReactJS, Material-UI, Styled-components, Redux, Axios, React-beautiful-dnd
+
+And here are some of the major personal projects I have build! 🚀🚀
 
 ## ShoutOut: Social Media Website | [Website link](https://inspiring-noether-356180.netlify.app/feed) | [GitHub Repo](https://github.com/aiveeKeiSoriano/social-media)
 
