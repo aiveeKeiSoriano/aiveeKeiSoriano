@@ -23,6 +23,7 @@ Hi there! I'm Aivee Kei Soriano, a full-stack web developer who takes comfort fr
 
 <br/><br/>
 
+
 Here are what my Upwork clients said about me and my work. 🤗🤗
 
 ## NodeJS Admin Dashboard
@@ -45,6 +46,7 @@ In this website, a user can search for songs using title, artists, or albums and
 
 Technologies used: ReactJS, Material-UI, Styled-components, Redux, Axios, React-beautiful-dnd
 
+<hr></hr>
 And here are some of the major personal projects I have build! 🚀🚀
 
 ## ShoutOut: Social Media Website | [Website link](https://inspiring-noether-356180.netlify.app/feed) | [GitHub Repo](https://github.com/aiveeKeiSoriano/social-media)
