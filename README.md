@@ -1,4 +1,4 @@
-***'The digital world inside our computers works in exact and with calculated ways'***, and that's the mindset I like to have whenever I do my work.
+**_'The digital world inside our computers works in exact and with calculated ways'_**, and that's the mindset I like to have whenever I do my work.
 
 Hi there! I'm Aivee Kei Soriano, a full-stack web developer who takes comfort from the repetitive part of programming and finds excitement from the endless learning in this field. I enjoy building projects, solving problems, and getting things done. I am skilled in MongoDB, ExpressJS, ReactJS, NodeJS and Firebase. I mostly work with the MERN stack but I'm very eager to learn more technologies.
 
@@ -57,6 +57,9 @@ In this website, a user can search for songs using title, artists, or albums and
 
 **Technologies used: ReactJS, Material-UI, Styled-components, Redux, Axios, React-beautiful-dnd**
 
+![](./images/song_tier.png)
+![](./images/song_tier_2.png)
+
 <hr></hr>
 And here are some of the major personal projects I have build! 🚀🚀
 
@@ -67,18 +70,20 @@ And here are some of the major personal projects I have build! 🚀🚀
 It is a social media website design for people to share their thoughts and follow other people's thoughts. I built it from scratch including authentication, and used JWT for authorization. You can follow other users and it generates a Feed which contains your posts and posts of all the users you are following. You can like a post, view other users’ profile and unfollow them if you want.
 
 Front-end:
+
 - ReactJS
 - Redux
 - Chakra UI
 
 Back-end API:
-- NodeJS 
-- ExpressJS 
+
+- NodeJS
+- ExpressJS
 - Heroku
 - MongoDB Atlas database
 
 You can visit the website hosted in Netlify using this [link](https://inspiring-noether-356180.netlify.app/feed)
-You can create your own new account or login using *aiveekei* as username and *testpass* as password
+You can create your own new account or login using _aiveekei_ as username and _testpass_ as password
 
 **ShoutOut Login Page**
 ![](./images/shoutout_login.png)
@@ -97,14 +102,15 @@ Teacher can create a session, add students and can share a unique link with stud
 When a student opens the portal and answers something, it appears on the teacher's dashboard real time.
 
 Front-end:
+
 - ReactJS
 - Redux
 - Material UI
 
 Back-end database and authentication:
+
 - Firebase firestore
 - Firebase login with Google authentication
-
 
 Here is a [link](https://hopeful-goldberg-d6cc5b.netlify.app/) to the teacher's dashboard for you to try it.
 
@@ -122,9 +128,11 @@ This is a website to browse and search popular movies and view posters and trail
 Implemented search using a 3rd Party REST API and used routing and pagination to load 20 movies at a time.
 
 Front-end:
+
 - ReactJS
 
 API:
+
 - [TMDB](https://developers.themoviedb.org/3/getting-started/introduction)
 
 You can look at the website [here](https://blissful-mcclintock-111199.netlify.app).
@@ -157,15 +165,15 @@ Unlike the classic mode where you have unlimited tries, in hardcore mode, the pl
 It is an app that lets a user login using their existing spotify account. And view their profile, top artists and top tracks.
 
 Front-end:
+
 - ReactJS
 - styled-components
 
 API:
-- Spotify for developers [Web API](https://developer.spotify.com/documentation/web-api/)
 
+- Spotify for developers [Web API](https://developer.spotify.com/documentation/web-api/)
 
 You can look at your profile [here](https://quizzical-poitras-057011.netlify.app/)
 
 **Spotify Profile Top Artists**
 ![](./images/spotify_artists.png)
-
