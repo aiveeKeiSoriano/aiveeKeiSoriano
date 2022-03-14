@@ -29,7 +29,7 @@ Here are what my Upwork clients said about me and my work. 🤗🤗
 
 ## App for the Rest-Node Device
 
-![](./images/restnode_feedback.png)
+![](./images/restnode_feedback2.png)
 
 This is the app that will accompany a [Rest-Node Device](https://www.restnode.org/). It serves as a controller for the device. The app uses Ionic and Capacitor which wraps a ReactJS web app so it will act, perform, and function as a native Android and iOS app and be able to utilize native features of a smart phone.
 
