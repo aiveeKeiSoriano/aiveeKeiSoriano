@@ -10,6 +10,7 @@ Hi there! I'm Aivee Kei Soriano, a full-stack web developer who takes comfort fr
 <img align="left" width="20px" alt="pug" src="https://raw.githubusercontent.com/github/explore/5251491d97b6e3e2f3aae129b6977d2643c5e355/topics/pug/pug.png"/>
 <img align="left" width="20px" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"/>
 <img align="left" width="20px" alt="react-native" src="https://www.paceit.co.uk/wp-content/uploads/2021/07/react-native-development-company.png"/>
+<img align="left" width="20px" alt="electron" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"/>
 <img align="left" width="20px" alt="ionic" src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png"/>
 <img align="left" width="20px" alt="redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>
 <img align="left" width="20px" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
@@ -17,6 +18,7 @@ Hi there! I'm Aivee Kei Soriano, a full-stack web developer who takes comfort fr
 <img align="left" width="20px" alt="chakra-ui" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4"/>
 <img align="left" width="20px" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img align="left" width="20px" alt="express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
+<img align="left" width="20px" alt="koa" src="https://raw.githubusercontent.com/github/explore/087f23463641d25ee971402fa26e3dfb2855edb9/topics/koa/koa.png"/>
 <img align="left" width="20px" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
 <img align="left" width="20px" alt="postgres" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
 <img align="left" width="20px" alt="firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
@@ -24,6 +26,16 @@ Hi there! I'm Aivee Kei Soriano, a full-stack web developer who takes comfort fr
 <br/><br/>
 
 Here are what my Upwork clients said about me and my work. 🤗🤗
+
+## App for the Rest-Node Device
+
+![](./images/restnode_feedback.png)
+
+This is the app that will accompany a [Rest-Node Device](https://www.restnode.org/). It serves as a controller for the device. The app uses Ionic and Capacitor which wraps a ReactJS web app so it will act, perform, and function as a native Android and iOS app and be able to utilize native features of a smart phone.
+
+**Technologies used: ReactJS, Ionic Framework, Capacitor, Typescript, Firebase, Auth0, React Context**
+
+![](./images/rest_node.png)
 
 ## NodeJS Admin Dashboard
 
