@@ -53,7 +53,7 @@ The back-end server was made using nodeJS and expressJS and serves Pug views as 
 
 ![](./images/songtier_feedback.png)
 
-In this website, a user can search for songs using title, artists, or albums and the song information will be fetched from Spotify API. Using the list of songs the user chose, the user can drag and drop songs into their preferred position. A user can also add corresponding scores to the songs and on trigger, the website will start a scripted drag-and-drop which will sort the songs in an animated manner.
+In this website, a user can search for songs using title, artists, or albums and the song information will be fetched from Spotify API. Using the list of songs the user chose, the user can drag and drop songs into their preferred position. A user can also add corresponding scores to the songs and on trigger, the website will start a scripted drag-and-drop which will sort the songs in an animated manner
 
 **Technologies used: ReactJS, Material-UI, Styled-components, Redux, Axios, React-beautiful-dnd**
 
