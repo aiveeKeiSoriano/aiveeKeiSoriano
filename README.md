@@ -8,7 +8,7 @@ Hi there! I'm Aivee Kei Soriano, a full-stack web developer who takes comfort fr
 <img align="left" width="20px" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" width="20px" alt="scss" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
 <img align="left" width="20px" alt="pug" src="https://raw.githubusercontent.com/github/explore/5251491d97b6e3e2f3aae129b6977d2643c5e355/topics/pug/pug.png"/>
-<img align="left" width="20px" alt="react-native" src="https://www.paceit.co.uk/wp-content/uploads/2021/07/react-native-development-company.png"/>
+<img align="left" width="20px" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"/>
 <img align="left" width="20px" alt="electron" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"/>
 <img align="left" width="20px" alt="ionic" src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png"/>
 <img align="left" width="20px" alt="redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>
